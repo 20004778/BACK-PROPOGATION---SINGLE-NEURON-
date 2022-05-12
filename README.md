@@ -1,4 +1,4 @@
-### EXP. NO: 03
+### EXP. NO: 04
 ### DATE: 8/4/22 
 # <p align = "center"> BACK-PROPOGATION---SINGLE-NEURON- </p>
 ## AIM:
