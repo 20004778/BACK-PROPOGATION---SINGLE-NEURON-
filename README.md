@@ -52,7 +52,7 @@ print(w)
 
 ```
 
-## Output:
+## <br><br><br>Output:
 ![WhatsApp Image 2022-04-19 at 7 34 43 PM](https://user-images.githubusercontent.com/75236145/164034199-e68286fe-b42c-4439-af8e-678c98bb33dd.jpeg)
 
 
